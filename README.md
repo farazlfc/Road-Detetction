@@ -1,3 +1,3 @@
 # Road-Detetction
-Massachussets Roads Dataset.
-Will soon be seperating tasks into different files.
+'Massachusstes Roads Dataset' has been used.
+As of yet , resized the images and implemeneted batch loading.
